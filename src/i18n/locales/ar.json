@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "categories": "الفئات",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "cart": "السلة",
+    "wishlist": "المفضلة",
+    "account": "الحساب",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "orders": "طلباتي"
+  },
+  "home": {
+    "hero_title": "مرحباً بك في متجر المدرسة",
+    "hero_subtitle": "اكتشف أفضل المنتجات بأسعار مميزة",
+    "shop_now": "تسوق الآن",
+    "featured_products": "المنتجات المميزة",
+    "categories": "الفئات",
+    "new_arrivals": "وصل حديثاً"
+  },
+  "product": {
+    "add_to_cart": "أضف للسلة",
+    "add_to_wishlist": "أضف للمفضلة",
+    "price": "السعر",
+    "description": "الوصف",
+    "reviews": "التقييمات",
+    "in_stock": "متوفر",
+    "out_of_stock": "غير متوفر"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "السلة فارغة",
+    "total": "المجموع",
+    "checkout": "إتمام الطلب",
+    "continue_shopping": "متابعة التسوق",
+    "remove": "حذف",
+    "quantity": "الكمية"
+  },
+  "wishlist": {
+    "empty": "قائمة المفضلة فارغة"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "login_title": "تسجيل الدخول",
+    "signup_title": "إنشاء حساب جديد",
+    "forgot_password": "نسيت كلمة المرور؟",
+    "have_account": "لديك حساب؟",
+    "no_account": "ليس لديك حساب؟"
+  },
+  "footer": {
+    "about_us": "من نحن",
+    "contact_info": "معلومات التواصل",
+    "quick_links": "روابط سريعة",
+    "follow_us": "تابعنا",
+    "rights": "جميع الحقوق محفوظة",
+    "description": "متجر المدرسة هو وجهتك الأولى للتسوق الإلكتروني في المملكة العربية السعودية",
+    "customer_service": "خدمة العملاء",
+    "help_center": "مركز المساعدة",
+    "shipping_info": "معلومات الشحن",
+    "returns": "الإرجاع والاستبدال",
+    "privacy_policy": "سياسة الخصوصية",
+    "terms": "الشروط والأحكام",
+    "privacy": "الخصوصية",
+    "cookies": "ملفات تعريف الارتباط"
+  },
+  "common": {
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "view": "عرض",
+    "welcome": "مرحباً بك",
+    "free_shipping": "شحن مجاني للطلبات أكثر من 200 ريال"
+  }
+}
